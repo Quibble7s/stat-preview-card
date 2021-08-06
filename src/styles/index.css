@@ -16,8 +16,7 @@
     font-family: 'Lexend Deca', sans-serif;
 }
 
-body{ background-color: var(--main-background);
-}
+body{ background-color: var(--main-background); }
 
 h1, h3{  font-family: 'Inter', sans-serif; font-weight: 700;}
 
@@ -125,12 +124,9 @@ h1, h3{  font-family: 'Inter', sans-serif; font-weight: 700;}
         padding-bottom: 32px;
     }
 
-    #card-image{ width: 100%; height: auto; overflow: hidden;}
+    #card-image{ width: 100%; height: auto; overflow: hidden; }
 
-    .image-overlay{
-        border-top-left-radius: 8px;
-        border-bottom-right-radius: 0;
-    }
+    .image-overlay{ border-top-left-radius: 8px; border-bottom-right-radius: 0; }
 
     .card-img{
         position: static;
